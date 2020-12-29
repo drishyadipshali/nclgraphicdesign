@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816881279671",
+    "project_id": "nucleus-academy-graphic",
+    "storage_bucket": "nucleus-academy-graphic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816881279671:android:48ca5ecd107ebf7c596332",
+        "android_client_info": {
+          "package_name": "com.drishya.nucleusacademygraphic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816881279671-vd2f2mpv0t389r9vdin55imjmvod162q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drishya.nucleusacademygraphic",
+            "certificate_hash": "5b99c1e4ff77d38add4abc0bb7b95b7597d69032"
+          }
+        },
+        {
+          "client_id": "816881279671-ka25v01s103rr5decape7p8mj23q6u2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhWw2Vx713xrZH26sABPS--JU07l-aWi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816881279671-ka25v01s103rr5decape7p8mj23q6u2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/activity_main">
+    <group android:checkableBehavior="single ">
+        <item
+            android:id="@+id/paint"
+            android:icon="@drawable/ic_paint"
+            android:title="MS Paint Practice " />
+
+        <item
+            android:id="@+id/word"
+            android:icon="@drawable/ic_word"
+            android:title="Microsoft Word Practice" />
+        <item
+            android:id="@+id/excel"
+            android:icon="@drawable/ic_excel"
+            android:title="Ms Excel Practice Book" />
+        <item
+            android:id="@+id/pnt"
+            android:icon="@drawable/ic_baseline_broken_image_24"
+            android:title="Ms Powerpoint Practice Book" />
+        <item
+            android:id="@+id/course"
+            android:icon="@drawable/ic_course"
+            android:title="Available Course" />
+
+
+
+    </group>
+
+    <group android:checkableBehavior="single ">
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Share" />
+        <item
+            android:id="@+id/Terms"
+            android:icon="@drawable/ic_terms"
+            android:title="Terms And Condition" />
+
+
+    </group>
+</menu>

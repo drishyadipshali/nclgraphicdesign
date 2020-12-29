@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Nucleus Academy Graphic</string>
+    <string name="open_navigation_menu"></string>
+    <string name="close_navigation_menu"></string>
+
+    <string-array name="course">
+        <item>MS Paint</item>
+        <item> MS Word </item>
+        <item> MS Excel</item>
+        <item>MS Powerpoint</item>
+        <item>Our Courses</item>
+
+
+    </string-array>
+
+    <string-array name="discription">
+        <item> MS Paint Practice Book </item>
+        <item> MS Word Practice Book </item>
+        <item>MS Excel Practice Book </item>
+        <item> MS Powerpoint Book</item>
+        <item> Available Courses</item>
+    </string-array>
+</resources>
